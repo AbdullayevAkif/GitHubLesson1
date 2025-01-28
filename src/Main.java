@@ -6,6 +6,9 @@ public class Main {
 
 
         System.out.println("Bye Akif");
+        System.out.println("Bye Akif");
+        System.out.println("Bye Akif");
+        System.out.println("Bye Akif");
 
 
     }
